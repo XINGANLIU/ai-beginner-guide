@@ -169,24 +169,28 @@
 
 | 名称 | 所属公司 | 简介 |
 |------|---------|------|
-| ChatGPT / GPT-5.5 / o3 | OpenAI | 全球最知名的 AI 对话工具 |
-| Claude (4.x Sonnet / Opus) | Anthropic | OpenAI 前团队创建，编程+推理能力第一 |
+| ChatGPT / GPT-5.5 Pro / o3 | OpenAI | 全球最知名的 AI 对话工具 |
+| Claude (Sonnet 5 / Opus 4.7) | Anthropic | OpenAI 前团队创建，编程+推理能力第一 |
 | Gemini (3.1 Pro / Ultra) | Google DeepMind | 谷歌的多模态 AI，与 Google 生态深度集成 |
 | LLaMA (4) | Meta | Meta 开源的大模型系列，推动了开源生态 |
 | Mistral | Mistral AI | 法国 AI 公司，开源模型性能出色 |
-| Grok | xAI（马斯克） | X（Twitter）内置的 AI 助手 |
+| Grok (4) | xAI（马斯克） | X（Twitter）内置的 AI 助手 |
+| Perplexity | Perplexity AI | 全球领先的 AI 搜索引擎 |
 | Copilot | Microsoft | 微软旗下，深度集成 Office/GitHub/Windows |
-| 通义千问 / Qwen | 阿里巴巴 | 阿里推出的大模型，开源版本表现优秀 |
+| 通义千问 / Qwen (3.5) | 阿里巴巴 | 阿里推出的大模型，开源版本表现优秀 |
 | 文心一言 / ERNIE Bot | 百度 | 百度推出的大模型 |
-| DeepSeek (V4 / R2) | 深度求索 (DeepSeek) | 国产高性能开源大模型，性价比之王 |
+| DeepSeek (V4-Pro / R2) | 深度求索 (DeepSeek) | 国产高性能开源大模型，性价比之王，1M上下文 |
 | Kimi | 月之暗面 (Moonshot AI) | 擅长超长文本的国产 AI（200万字上下文） |
 | 豆包 | 字节跳动 | 字节推出的 AI 助手 |
-| 智谱清言 / GLM | 智谱 AI | 清华系 AI 公司推出的大模型 |
+| 智谱清言 / GLM (5.1) | 智谱 AI | 清华系 AI 公司推出的大模型 |
 | 天工 | 昆仑万维 | 国产 AI 对话和搜索工具 |
-| 可灵 (Kling) 3.0 | 快手 | 国产视频生成工具标杆 |
+| 可灵 (Kling) 3.0 Omni | 快手 | 国产视频生成工具标杆，支持多语言唇形同步 |
+| Seedance (2.0) | 字节跳动 | AI 视频生成工具，多镜头故事板能力强 |
 | Suno | Suno AI | 最流行的 AI 音乐生成工具 |
-| Midjourney | Midjourney | 画质最高的 AI 绘画工具 |
+| Midjourney (V8 Alpha) | Midjourney | 画质最高的 AI 绘画工具 |
+| Ideogram (V3) | Ideogram | 文字渲染行业领先（90-95%准确率） |
 | Cursor | Anysphere | 最热门的 AI 编程编辑器 |
+| Windsurf | Codeium | AI 编程 IDE，Cascade 多步推理引擎 |
 
 ---
 

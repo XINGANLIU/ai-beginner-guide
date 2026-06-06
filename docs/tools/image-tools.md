@@ -6,24 +6,25 @@
 
 | 工具 | 公司 | 价格 | 最大特点 | 中文支持 | 上手难度 |
 |------|------|------|---------|---------|----------|
-| Midjourney V8 | Midjourney | $10/月起 | 画质最高，V8 全新引擎 | 弱 | ⭐⭐ |
-| GPT Image 2 | OpenAI | Plus用户可用 | 文字渲染最准确 | 中 | ⭐ |
+| Midjourney V8 Alpha | Midjourney | $10/月起 | 画质最高，V8 Alpha 5倍渲染速度 | 弱 | ⭐⭐ |
+| GPT Image 2 | OpenAI | Plus用户可用 | 文字渲染最准确，对话式生成 | 中 | ⭐ |
 | FLUX 2 | Black Forest Labs | 免费开源 | 2026 年开源新王者，写实极强 | 中 | ⭐⭐⭐ |
+| Imagen 4 (Nano Banana Pro) | Google | 免费+付费 | 4K输出，多语言文字渲染，物理感知 | 中 | ⭐⭐ |
 | Stable Diffusion 4 | Stability AI | 免费开源 | 可本地部署，社区生态丰富 | 中 | ⭐⭐⭐⭐ |
 | 可灵 (Kling) 3.0 | 快手 | 免费+付费 | 国产领先，图片+视频 | 强 | ⭐⭐ |
 | 通义万相 | 阿里巴巴 | 免费 | 中文提示词友好 | 强 | ⭐ |
 | 即梦 (Dreamina) | 字节跳动 | 免费 | 抖音生态，使用简单 | 强 | ⭐ |
-| Ideogram 3 | Ideogram | 免费+付费 | 擅长文字渲染 | 弱 | ⭐⭐ |
+| Ideogram V3 | Ideogram | 免费+付费 | 文字渲染行业领先（90-95%准确率） | 弱 | ⭐⭐ |
 | Leonardo AI | Leonardo | 免费+付费 | 游戏/概念设计 | 弱 | ⭐⭐ |
 
 ## 各工具详细介绍
 
-### Midjourney V8
+### Midjourney V8 Alpha
 **官网**：https://www.midjourney.com
 
-- **优势**：V8 全新引擎，渲染速度提升 5 倍，原生 2K 输出，画质更高
+- **优势**：V8 Alpha 全新引擎，渲染速度提升 5 倍，原生 2K 输出，V7 美学评分 9.3/10
 - **使用方式**：通过 Discord 或官网网页版使用
-- **价格**：Basic $10/月（约200张）、Standard $30/月（15小时）、Pro $60/月
+- **价格**：Basic $10/月（约200张）、Standard $30/月、Pro $60/月
 - **适合**：追求高质量艺术图片的设计师、创作者、自媒体人
 
 **注册与使用**：
@@ -49,6 +50,14 @@
 - **使用方式**：本地安装（需显卡）或使用在线服务（如 Replicate）
 - **价格**：开源免费
 - **适合**：追求写实效果和自由度的用户
+
+### Imagen 4 (Nano Banana Pro) — Google 新旗舰
+**官网**：https://aistudio.google.com
+
+- **优势**：基于 Gemini 3，4K 输出 10 秒内完成，多语言文字渲染，物理感知生成，复杂多主体场景评分 9.0/10
+- **使用方式**：通过 Google AI Studio 或 Gemini 应用使用
+- **价格**：免费（水印）/ 付费
+- **适合**：追求写实效果和文字渲染的用户
 
 ### Stable Diffusion 4
 - **优势**：完全开源免费，可本地运行，有丰富的社区模型（Civitai）

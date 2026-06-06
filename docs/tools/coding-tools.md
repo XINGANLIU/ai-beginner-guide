@@ -11,7 +11,7 @@
 | Trae | **完全免费** | 字节跳动 AI IDE，中文友好 | Windows/Mac | ⭐⭐⭐⭐ |
 | Qoder | 免费+付费 | 阿里 Agentic 编程平台 | Windows/Mac/Linux | ⭐⭐⭐ |
 | GitHub Copilot | $10/月（学生免费） | VS Code 深度集成 | VS Code、JetBrains | ⭐⭐ |
-| Windsurf | 免费版+付费 | Cascade 多步推理 | Windows/Mac/Linux | ⭐⭐⭐ |
+| Windsurf | 免费版+付费 | 2026 年主要竞争对手，Cascade 引擎 | Windows/Mac/Linux | ⭐⭐⭐ |
 | Bolt.new | 免费试用 | 浏览器内直接生成应用 | 浏览器 | ⭐⭐⭐⭐⭐ |
 | v0.dev | 免费+付费 | Vercel 出品，UI 生成 | 浏览器 | ⭐⭐⭐⭐ |
 | Replit Agent | 付费 | 自动开发部署 | 浏览器 | ⭐⭐⭐⭐ |
@@ -89,6 +89,14 @@ AI：自动生成 HTML/CSS/JS 代码，可以直接运行
 5. 用自然语言描述你想做什么，AI 帮你写代码
 6. 按 Tab 接受 AI 的代码建议
 ```
+
+### Windsurf — 2026 年 Cursor 主要竞争对手
+**官网**：https://codeium.com/windsurf
+
+- **优势**：Cascade 多步推理引擎、上下文理解能力强、免费额度慷慨
+- **使用方式**：下载 IDE，支持 Windows/Mac/Linux
+- **价格**：免费版可用，Pro $15/月
+- **适合**：想要 Cursor 免费替代品的用户
 
 ### Bolt.new —— 浏览器里做应用（最适合小白）
 **官网**：https://bolt.new
