@@ -62,6 +62,7 @@ export default defineConfig({
             { text: 'AI 写作与办公', link: '/tutorials/ai-writing-ppt' },
             { text: 'AI 生成图片', link: '/tutorials/ai-image-generation' },
             { text: 'AI 辅助学习工作', link: '/tutorials/ai-learning-work' },
+            { text: '用资料简介排学习顺序', link: '/tutorials/plan-from-resource-descriptions' },
             { text: 'API + Agent 部署攻略', link: '/tutorials/api-agent-deploy' },
           ],
         },
